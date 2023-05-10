@@ -1,0 +1,15 @@
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/bin/Debug/net7.0/BasicSyntax
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/bin/Debug/net7.0/BasicSyntax.deps.json
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/bin/Debug/net7.0/BasicSyntax.runtimeconfig.json
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/bin/Debug/net7.0/BasicSyntax.dll
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/bin/Debug/net7.0/BasicSyntax.pdb
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.csproj.AssemblyReference.cache
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.AssemblyInfoInputs.cache
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.AssemblyInfo.cs
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.csproj.CoreCompileInputs.cache
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.dll
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/refint/BasicSyntax.dll
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.pdb
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/BasicSyntax.genruntimeconfig.cache
+/Users/aritrobasu/Projects/Syntax/BasicSyntax/BasicSyntax/obj/Debug/net7.0/ref/BasicSyntax.dll
